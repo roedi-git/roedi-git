@@ -1,13 +1,10 @@
 # Servus, ich bin Marcus 👋
 
-B.Sc. Informatik Student und ausgebildeter  
-Fachinformatiker für Anwendungsentwicklung.
+## Qualifikationen
+- aktueller Dualer B.Sc. Informatik Student  
+- Fachinformatiker für Anwendungsentwicklung (IHK Abschluss)  
 
 Interessiert in: Full-Stack-Webentwicklung, Softwarearchitektur und KI-basierte Lösungen.
-
-## Über mich
-
-
 
 ## Tech Stack
 
@@ -24,22 +21,8 @@ Interessiert in: Full-Stack-Webentwicklung, Softwarearchitektur und KI-basierte 
 - MS SQL
 - MariaDB
 
-## Aktuell beschäftige ich mich mit
-
-- KI-Agents
-- Prozessoptimierung durch KI
-- Erweiterte Softwarearchitektur
-- Intelligente Automatisierung
-
 ## Interessensgebiete
 
 - Full-Stack Webentwicklung
 - Künstliche Intelligenz
-
-## Projekte
-
-Hier werden zukünftig ausgewählte Projekte vorgestellt.
-
 ---
-
-⭐ Stetig daran interessiert, neue Technologien zu lernen und Softwarelösungen zu verbessern.
